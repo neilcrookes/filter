@@ -23,4 +23,6 @@ startsWith etc, for a full set, see FilterComponent::_operators
 
 4. Render the filter form with all fields, submit buttons etc as configured in
 the filter component settings when you attach the component to your controller,
-simply by adding <?php echo $filter; ?> in your view
+simply by adding <?php echo $filter; ?> in your view.
+
+See the component and helper comments for advanced usage.
